@@ -1,0 +1,25 @@
+{
+  "name": "GS-4 Ethics — Terms, Thinkers, Quotes & Applied Ethics",
+  "short_name": "GS4 Ethics",
+  "description": "Offline study reference for UPSC CSE Mains / UP PCS GS Paper IV: 140 key terms, 36 thinkers, 36 quotes, a full Administrative Ethics guide, and 15 domains of applied ethics.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf6ee",
+  "theme_color": "#0f2540",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
